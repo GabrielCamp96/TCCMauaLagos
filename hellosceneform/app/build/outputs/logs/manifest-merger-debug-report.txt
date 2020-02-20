@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9088cd4fa8677d6f2b3f42f7428bd820/sceneform-ux-1.14.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1bafd2ea70648520a6d0066de1676172/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/e9b03e7157a67726291ff60fb52d1502/core-1.14.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/dd79d0c110af8927605aed9d3466e1d1/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1b19f9b778fc26bd41baff38e52d65eb/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/a40024a7a15a3d45e24db128701642f2/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9ad0c06e33236a0812b36f3ae07e4c50/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b088461067663868ba780927e29eb6bd/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1ad90e79c9624279f3f9fa583ffedec8/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/36d0ac8668535624758f702891fd6206/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/3c8ef8ca1ccf6c569d936c9937745a2c/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1f0cc8b969e99df93c4bb0ca535c77e2/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/119dbc7a5b0e81a2a47acdaaf904f0ef/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/674fdc5a8ccbd2177dfbe8dd2c64a731/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4cbea73e7869255fea7cc00bf190768b/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f6d50633656a9a07c7703c5711caff02/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/aa2edb681642a6a8a1fedb9ca149001f/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4dc0652b5d22550ef13f4185eb306041/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8876a15b16f737930911da03195ea71a/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/610e49c0e792c13cd5381c2dc692252b/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8c12a1d2d39ef4d5a5a2c9fe0f2d078d/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/0e556bebd4a370bb78fae56014a5fca3/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/37e4c81bcada4534905b5946ac704c91/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f59fc5ef5c3c12711b576192239b5e2a/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/254e2c93d3bd0979f77d7e675036dfe3/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/373018ec68292121521474b8b28fd86f/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4b2b2d3979c0327d7c930114633913c2/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d98a6017b222f9659c265589bca68e75/rendering-1.14.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b8bf8b30d0b2079a59379c689a4b91dc/sceneform-base-1.14.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/10de23a8e8f3e575eeadedb443ff3754/filament-android-1.14.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:17:1-46:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+	package
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:18:5-61
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:17:5-51
+	android:versionCode
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:1-56:12
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:23:22-62
+uses-feature#0x00030000
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:25:5-78
+	android:glEsVersion
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:25:19-51
+	android:required
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:25:52-75
+uses-feature#android.hardware.camera.ar
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:29:5-86
+	android:required
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:29:61-84
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:29:19-60
+application
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:31:5-55:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/aa2edb681642a6a8a1fedb9ca149001f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/aa2edb681642a6a8a1fedb9ca149001f/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:30:5-44:19
+MERGED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:30:5-44:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:34:9-41
+	tools:ignore
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:37:9-48
+	android:icon
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:33:9-45
+	android:allowBackup
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:32:9-36
+	android:theme
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:35:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:36:9-45
+meta-data#com.google.ar.core
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:41:9-81
+	android:value
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:41:54-78
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:41:20-53
+activity#com.google.ar.sceneform.samples.hellosceneform.HelloSceneformActivity
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:43:9-54:20
+	android:screenOrientation
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:48:13-47
+	android:label
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:45:13-45
+	android:exported
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:49:13-36
+	android:configChanges
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:46:13-59
+	android:theme
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:47:13-63
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:44:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:51:17-69
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9088cd4fa8677d6f2b3f42f7428bd820/sceneform-ux-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform.ux:sceneform-ux:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9088cd4fa8677d6f2b3f42f7428bd820/sceneform-ux-1.14.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1bafd2ea70648520a6d0066de1676172/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1bafd2ea70648520a6d0066de1676172/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/e9b03e7157a67726291ff60fb52d1502/core-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/e9b03e7157a67726291ff60fb52d1502/core-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/dd79d0c110af8927605aed9d3466e1d1/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/dd79d0c110af8927605aed9d3466e1d1/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1b19f9b778fc26bd41baff38e52d65eb/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1b19f9b778fc26bd41baff38e52d65eb/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/a40024a7a15a3d45e24db128701642f2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/a40024a7a15a3d45e24db128701642f2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9ad0c06e33236a0812b36f3ae07e4c50/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/9ad0c06e33236a0812b36f3ae07e4c50/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b088461067663868ba780927e29eb6bd/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b088461067663868ba780927e29eb6bd/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1ad90e79c9624279f3f9fa583ffedec8/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1ad90e79c9624279f3f9fa583ffedec8/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/36d0ac8668535624758f702891fd6206/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/36d0ac8668535624758f702891fd6206/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/3c8ef8ca1ccf6c569d936c9937745a2c/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/3c8ef8ca1ccf6c569d936c9937745a2c/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1f0cc8b969e99df93c4bb0ca535c77e2/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/1f0cc8b969e99df93c4bb0ca535c77e2/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/119dbc7a5b0e81a2a47acdaaf904f0ef/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/119dbc7a5b0e81a2a47acdaaf904f0ef/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/674fdc5a8ccbd2177dfbe8dd2c64a731/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/674fdc5a8ccbd2177dfbe8dd2c64a731/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4cbea73e7869255fea7cc00bf190768b/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4cbea73e7869255fea7cc00bf190768b/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f6d50633656a9a07c7703c5711caff02/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f6d50633656a9a07c7703c5711caff02/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d4c6783074bc50c9daff596592aa41e0/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/aa2edb681642a6a8a1fedb9ca149001f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/aa2edb681642a6a8a1fedb9ca149001f/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4dc0652b5d22550ef13f4185eb306041/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4dc0652b5d22550ef13f4185eb306041/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8876a15b16f737930911da03195ea71a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8876a15b16f737930911da03195ea71a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/610e49c0e792c13cd5381c2dc692252b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/610e49c0e792c13cd5381c2dc692252b/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8c12a1d2d39ef4d5a5a2c9fe0f2d078d/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8c12a1d2d39ef4d5a5a2c9fe0f2d078d/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/0e556bebd4a370bb78fae56014a5fca3/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/0e556bebd4a370bb78fae56014a5fca3/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/37e4c81bcada4534905b5946ac704c91/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/37e4c81bcada4534905b5946ac704c91/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f59fc5ef5c3c12711b576192239b5e2a/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/f59fc5ef5c3c12711b576192239b5e2a/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/254e2c93d3bd0979f77d7e675036dfe3/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/254e2c93d3bd0979f77d7e675036dfe3/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/373018ec68292121521474b8b28fd86f/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/373018ec68292121521474b8b28fd86f/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4b2b2d3979c0327d7c930114633913c2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/kikepola/.gradle/caches/transforms-2/files-2.1/4b2b2d3979c0327d7c930114633913c2/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d98a6017b222f9659c265589bca68e75/rendering-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:rendering:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/d98a6017b222f9659c265589bca68e75/rendering-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b8bf8b30d0b2079a59379c689a4b91dc/sceneform-base-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:sceneform-base:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/b8bf8b30d0b2079a59379c689a4b91dc/sceneform-base-1.14.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/10de23a8e8f3e575eeadedb443ff3754/filament-android-1.14.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar.sceneform:filament-android:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/10de23a8e8f3e575eeadedb443ff3754/filament-android-1.14.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:26:5-28:41
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		ADDED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kikepola/Desktop/hellosceneform/app/src/main/AndroidManifest.xml
+meta-data#com.google.ar.core.min_apk_version
+ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:33:9-35:41
+	android:value
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:34:13-62
+activity#com.google.ar.core.InstallActivity
+ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:37:9-43:80
+	android:excludeFromRecents
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:40:13-46
+	android:launchMode
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:42:13-43
+	android:exported
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:41:13-37
+	android:configChanges
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:39:13-74
+	android:theme
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:43:13-77
+	android:name
+		ADDED from [com.google.ar:core:1.14.0] /home/kikepola/.gradle/caches/transforms-2/files-2.1/8bf5d0c4fa519d39469cd7a5dd2852b6/core-1.14.0/AndroidManifest.xml:38:13-62
